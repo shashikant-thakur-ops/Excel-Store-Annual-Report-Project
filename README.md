@@ -22,6 +22,7 @@ Here are the questions (KPIs) listed in the image:
 10.Dashboard Interaction.
 
 Based on the "STORE ANNUAL REPORT" Excel dashboard,here are the key insights:
+
 1.Monthly Trends
 
 -March had the highest sales and order volume.
